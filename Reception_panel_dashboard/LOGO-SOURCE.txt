@@ -1,0 +1,1 @@
+homa-health-logo.png is an exact pixel crop (x=0..368, y=22..173) from the user-provided IMG_8291(1).jpeg. No text, font, icon, colors, or proportions were redrawn or modified.
